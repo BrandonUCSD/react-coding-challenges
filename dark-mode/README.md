@@ -1,4 +1,4 @@
-# Dark Mode Coding Challenge 🌙 &nbsp; ![medium](https://img.shields.io/badge/-Medium-yellow) ![time](https://img.shields.io/badge/%E2%8F%B0-30m-blue) 
+# Dark Mode Coding Challenge 🌙 &nbsp; ![medium](https://img.shields.io/badge/-Medium-yellow) ![time](https://img.shields.io/badge/%E2%8F%B0-30m-blue)
 
 &nbsp;
 # Goals / Outcomes ✨
