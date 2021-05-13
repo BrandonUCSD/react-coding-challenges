@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import axios from 'axios';
 import DiscoverBlock from './DiscoverBlock/components/DiscoverBlock';
 import '../styles/_discover.scss';
 
@@ -11,6 +12,16 @@ export default class Discover extends Component {
       playlists: [],
       categories: []
     };
+
+    this.getNewReleases = this.getNewReleases.bind(this);
+  }
+
+  componentDidMount() {
+    this.getNewReleases();
+  }
+
+  getNewReleases() {
+
   }
 
   render() {
